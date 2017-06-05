@@ -1,8 +1,9 @@
 # Contents
-``
+
+```
 1. CPT S355 Programming Language Design
 2. CPT S580 Reinforcement Learning
-``
+```
 
 1. CPT S355 Programming Language Design
 
