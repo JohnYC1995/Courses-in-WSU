@@ -7,7 +7,7 @@
 
 # 1. CPT S355 Programming Language Design
 
-All the code implemented in this class.
+Six different programming languages including Python, Java, C++, Scheme, Standard-ML, Postscript-interpreter are taught in this class.
 
 ## Oragnization of this part of the code
 
