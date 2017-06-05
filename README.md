@@ -29,7 +29,7 @@ All the code implemented in this class.
 
 ## Summary of Final Project 
 
-![images](https://github.com/JohnYC1995/Spring-2017-Class-taken-Reinforcement-Learning-/blob/master/Sample_process_images/Natural_images_process.png)
+![images](https://github.com/JohnYC1995/Courses-in-WSU/blob/master/Spring-2017-class-taken-Reinforcement-Learning/Sample_process_images/Natural_images_process.png)
 ```
 Illustration of the process that agent attempted to detect the object. Green boxes represent
 the ground truth bounding boxes; Red box denotes current objective box that agent is trying localize.
@@ -38,7 +38,7 @@ The white boxes in left column illustrates the location where agent starts from.
 actions without getting trigger, agent will restart. The middle column show the restart bounding box.
 The right column showed the bounding box that agent reach the trigger state.
 ```
-![images](https://github.com/JohnYC1995/Spring-2017-Class-taken-Reinforcement-Learning-/blob/master/Sample_process_images/Neural_image_result.png)
+![images](https://github.com/JohnYC1995/Courses-in-WSU/blob/master/Spring-2017-class-taken-Reinforcement-Learning/Sample_process_images/Neural_image_result.png)
 ```
 Illustration of active localization on EM neuron image. Red box denotes the ground truth
 of neuron locations. White Box shows the localization result produced by the agent. Blue box: an
