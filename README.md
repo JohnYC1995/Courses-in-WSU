@@ -1,8 +1,9 @@
 # - Contents
 
 ```
-1. CPT S355 Programming Language Design(Not available now)
-2. CPT S580 Reinforcement Learning
+1. CPT S355 Programming Language Design
+2. CPT S540 Artificial Intelligence
+3. CPT S580 Reinforcement Learning
 ```
 
 # 1. CPT S355 Programming Language Design
@@ -16,9 +17,17 @@ Six different programming languages including Python, Java, C++, Scheme, Standar
 ## Acknowledge
 Here I want specifically thanks for professor Ay's teaching.
 
+# 2. CPT S540 Artificial Intelligence
 
+Implementation of classical Artificial Intelligence algorithms on a classic game - Wumpus World.
 
-# 2. CPT S580 Reinforcement Learning
+* ** To run this agent, one just need to compile ```wumpsim.cc``` file, the agent will generate results based on your algorithms.
+* ** To see my strategy, please take a look the ```Agent.cc``` and ```Agent.h``` files. Feel free to modify the code to satisfy your agent.
+
+## Ackonwledge
+A C++ Wumpus World simulator, following the rules from the textbook ``Artificial intelligence A Modern Approach``, is available at prof. Larry Holder’s teaching website, ```http://www.eecs.wsu.edu/~holder/courses/AI/wumpus```
+
+# 3. CPT S580 Reinforcement Learning
 
 All the code implemented in this class.
 
