@@ -12,7 +12,7 @@ Six different programming languages including Python, Java, C++, Scheme, Standar
 
 ## Oragnization of this part of the code
 
-* **There are six times homeworks. For each homework, using a kind of language to approach similar problems.
+* **There are six sets of homework. For each homework, using a kind of language to approach similar problems.
 
 ## Acknowledge
 Here I want specifically thanks for professor Ay's teaching.
@@ -58,4 +58,4 @@ example that shows an initial starting box for the agent in one of locations.
 The code was implemented based on the book Reinforcement Learning: An Introduction:(https://mitpress.mit.edu/books/reinforcement-learning). 
 
 ## Acknowledge
-This course is taken in 2017 Spring, it's quite interesting class. Here I want to specifically thanks to Tao Zeng, who help me a lot to learn python programming.
+This course is taken in 2017 Spring, it's quite interesting class. Here I want to specifically thanks to Tao Zeng who has helped me a lot to learn python programming.
